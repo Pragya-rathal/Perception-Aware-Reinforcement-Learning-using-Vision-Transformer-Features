@@ -48,9 +48,9 @@ Results Summary
 After training both models for ~3000 episodes:
 
 Metric	Pixel-Based	Feature-Based
-Final Avg Reward	~X.XX	~Y.YY
-Success Rate	~XX%	~YY%
-Convergence (episodes)	~XXXX	~YYYY
+Final Avg Reward	
+Success Rate	
+Convergence (episodes)	
 Note: Actual results will vary based on random seeds and hyperparameters.
 
 Observations
